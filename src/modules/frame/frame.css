@@ -2,7 +2,7 @@
     /* position: relative; */
     display: flex;
     justify-content: flex-start;
-    align-items: start;
+    align-items: flex-start;
     width: 100%;
     /* height: 50%; */
 }
@@ -32,3 +32,22 @@
     right: 50px;
 }
 
+@media screen and (max-width: 800px) {
+
+    .totalFrame{
+        /* position: relative; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        /* height: 50%; */
+    }
+    .outerFrame{
+        position: relative;
+        top: 50px; 
+        left: 0; 
+        border: #FFFF00 solid 5px;
+        width: fit-content;
+        padding: 10px;
+    }
+}   
