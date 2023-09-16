@@ -8,6 +8,11 @@
   --subSizeH2:30px;
   --subSizeH3:25px;
   --textSize:20px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 
@@ -118,17 +123,26 @@ TextContaier{
   font-family: var(--titlesFont);
 }
 
-
+.subTile{
+  color: #000;
+}
 
 .conectPart{
   height: fit-content;
 }
 
+.conect{
+  padding: 10px;
+}
 .conection{
   position: relative;
   color: #000;
   text-decoration: none;
   bottom: 19px;
+}
+
+.conection>img{
+  width: 30px;
 }
 
 .title{

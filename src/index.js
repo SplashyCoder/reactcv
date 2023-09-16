@@ -3,6 +3,11 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+// import React, { useState, useEffect } from 'react';
+
+// import { useFonts, RussoOne_400Regular } from '@expo-google-fonts/russo-one';
+
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
