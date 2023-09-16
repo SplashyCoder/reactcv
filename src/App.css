@@ -3,11 +3,11 @@
   --text: #fff;
   --titlesFont: 'Russo One', sans-serif;
   --textFont: 'Roboto Mono', monospace;
-  --titlesSize:45px;
-  --subSize:35px;
-  --subSizeH2:30px;
-  --subSizeH3:25px;
-  --textSize:20px;
+  --titlesSize:40px;
+  --subSize:30px;
+  --subSizeH2:25px;
+  --subSizeH3:20px;
+  --textSize:15px;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
