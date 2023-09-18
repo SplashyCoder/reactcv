@@ -25,7 +25,9 @@
   
 }
 
-
+.textContainer{
+  padding: 10px;
+}
 
 .appHeader {
   background-color: #fff;
@@ -124,7 +126,9 @@ TextContaier{
   background-color: #fff;
   font-family: var(--titlesFont);
 }
-
+.footerTitle{
+  padding: 10px;
+}
 .subTile{
   color: #000;
 }

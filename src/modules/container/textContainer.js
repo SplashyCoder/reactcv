@@ -1,6 +1,6 @@
 export default function TextContaier (props){
     return(
-        <div className={props.class}>
+        <div className='textContainer'>
             {props.children}
         </div>
     )
