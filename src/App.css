@@ -45,7 +45,8 @@
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
-  bottom: 60px;  
+  left: 700px;
+  bottom: 50px;  
 }
 
 .title{
@@ -115,6 +116,7 @@ TextContaier{
 .gitHub{
   color: var(--text);
   text-decoration: none;
+  font-weight:800;
 }
 
 
