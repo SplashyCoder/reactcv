@@ -20,7 +20,8 @@
     position: relative;
     width: 200px;
     border: #FFFF00 solid 5px;
-    overflow-y: hidden;
+    overflow-x: hidden;
+    
 
 }
 .profileImg{
