@@ -23,7 +23,7 @@ return (
             <div className="personalProfileTitle">
                 <h1 className="subTitle">ABOUT</h1>
             </div>
-            <p className="personalProfileDescription text">I’m a pacient person, with good soft and technical skills, futher I hold up in touch with the tools and practices in the development vanguard. I have experience in personal and freelance projects in Frontend and Backend roles. Actually work in Linux platforms, however, I unwrap easily in Windows and Mac enviroments.  </p>
+            <p className="personalProfileDescription text">I’m a patient person, with good soft and technical skills, futher I hold up in touch with the tools and practices in the development vanguard. I have experience in personal and freelance projects in Frontend and Backend roles. Actually work in Linux platforms, however, I unwrap easily in Windows and Mac enviroments.  </p>
         </div>
     </TextContaier>
     <TextContaier>
