@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reactcv/static/css/main.f2e54504.css",
-    "main.js": "/reactcv/static/js/main.325b4991.js",
+    "main.js": "/reactcv/static/js/main.cf4d1fbd.js",
     "static/js/787.867ef6f8.chunk.js": "/reactcv/static/js/787.867ef6f8.chunk.js",
     "index.html": "/reactcv/index.html",
     "main.f2e54504.css.map": "/reactcv/static/css/main.f2e54504.css.map",
-    "main.325b4991.js.map": "/reactcv/static/js/main.325b4991.js.map",
+    "main.cf4d1fbd.js.map": "/reactcv/static/js/main.cf4d1fbd.js.map",
     "787.867ef6f8.chunk.js.map": "/reactcv/static/js/787.867ef6f8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f2e54504.css",
-    "static/js/main.325b4991.js"
+    "static/js/main.cf4d1fbd.js"
   ]
 }
