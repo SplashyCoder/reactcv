@@ -22,11 +22,17 @@
   height: 100%;
   width: 100%;
   color: #fff;
-  
 }
+
 
 .textContainer{
   padding: 10px;
+}
+.app > * {
+  padding-left: 20px;
+  padding-right: 20px;
+
+  /* Otros estilos que desees aplicar a todos los hijos de .app */
 }
 
 .appHeader {
