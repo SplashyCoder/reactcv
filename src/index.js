@@ -2,6 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+import AppSpanish from './AppSpanish';
+import AppTodo from './AppTodo';
+import AppTodoSpanish from './AppTodoSpanish';
 import reportWebVitals from './reportWebVitals';
 // import React, { useState, useEffect } from 'react';
 
@@ -12,7 +15,7 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <AppTodo/>
   </React.StrictMode>
 );
 
